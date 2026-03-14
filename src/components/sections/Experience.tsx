@@ -32,10 +32,20 @@ export default function Experience() {
       roleEn: "Video Editor",
       roleId: "Editor Video",
       company: "Kastara Picture",
-      periodEn: "Jul 2024 - Okt 2024",
-      periodId: "Jul 2024 - Okt 2024",
+      periodEn: "Aug 2023 - Oct 2024",
+      periodId: "Agu 2023 - Okt 2024",
       descEn: "Responsible for end-to-end video production, including concept development, shooting, and post-production. Tasks included creating storyboards, setting up lighting and camera equipment, editing footage using professional software (Capcut and Adobe Premiere Pro), adding motion graphics, and performing color grading. Played a key role in maintaining visual quality and ensuring the final output aligned with the client's branding and objectives.",
       descId: "Bertanggung jawab atas produksi video end-to-end, termasuk pengembangan konsep, syuting, dan pascaproduksi. Tugas mencakup pembuatan storyboard, pengaturan pencahayaan dan peralatan kamera, pengeditan footage menggunakan perangkat lunak profesional (Capcut dan Adobe Premiere Pro), penambahan motion graphics, dan color grading. Memainkan peran kunci dalam menjaga kualitas visual dan memastikan hasil akhir selaras dengan branding dan tujuan klien."
+    },
+    {
+      id: "04",
+      roleEn: "Video Editor",
+      roleId: "Editor Video",
+      company: "Horizon FX Indonesia",
+      periodEn: "[Month] [Year] - [Month] [Year]",
+      periodId: "[Bulan] [Tahun] - [Bulan] [Tahun]",
+      descEn: "[Please write your English role description in Horizon FX Indonesia here...]",
+      descId: "[Silakan tuliskan deskripsi pengalaman beserta tanggung jawab Anda di Horizon FX Indonesia di sini...]"
     }
   ];
 
