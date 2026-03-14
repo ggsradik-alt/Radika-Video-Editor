@@ -39,13 +39,13 @@ export default function Experience() {
     },
     {
       id: "04",
-      roleEn: "Video Editor",
-      roleId: "Editor Video",
+      roleEn: "Video Editor (Work From Home)",
+      roleId: "Editor Video (WFH)",
       company: "Horizon FX Indonesia",
-      periodEn: "[Month] [Year] - [Month] [Year]",
-      periodId: "[Bulan] [Tahun] - [Bulan] [Tahun]",
-      descEn: "[Please write your English role description in Horizon FX Indonesia here...]",
-      descId: "[Silakan tuliskan deskripsi pengalaman beserta tanggung jawab Anda di Horizon FX Indonesia di sini...]"
+      periodEn: "Jul 2025 - Jan 2026",
+      periodId: "Jul 2025 - Jan 2026",
+      descEn: "Worked remotely as a Video Editor, managing and editing video content efficiently from a work-from-home setup. Ensured timely delivery of high-quality outputs while maintaining strong remote collaboration with the team.",
+      descId: "Bekerja secara WFH sebagai Editor Video, mengelola asets dan mengedit konten video secara efisien dari rumah. Memastikan penyelesaian hasil akhir dengan kualitas tinggi secara tepat waktu sambil menjaga kolaborasi jarak jauh yang baik dengan tim."
     }
   ];
 
