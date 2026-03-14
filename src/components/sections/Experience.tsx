@@ -44,8 +44,8 @@ export default function Experience() {
       company: "Horizon FX Indonesia",
       periodEn: "Jul 2025 - Jan 2026",
       periodId: "Jul 2025 - Jan 2026",
-      descEn: "Worked remotely as a Video Editor, managing and editing video content efficiently from a work-from-home setup. Ensured timely delivery of high-quality outputs while maintaining strong remote collaboration with the team.",
-      descId: "Bekerja secara WFH sebagai Editor Video, mengelola asets dan mengedit konten video secara efisien dari rumah. Memastikan penyelesaian hasil akhir dengan kualitas tinggi secara tepat waktu sambil menjaga kolaborasi jarak jauh yang baik dengan tim."
+      descEn: "Served as a remote Video Editor, responsible for receiving and processing raw footage to produce high-quality educational content. Specialized in editing comprehensive videos focusing on finance and geopolitical topics, ensuring complex subject matters were presented in an engaging and accessible visual format.",
+      descId: "Bertugas sebagai Editor Video jarak jauh, bertanggung jawab menerima dan mengolah footage mentah menjadi konten edukasi berkualitas tinggi. Mengkhususkan diri dalam pengeditan video komprehensif yang membahas topik keuangan dan geopolitik, memastikan materi yang kompleks disajikan secara visual agar menarik dan mudah dipahami."
     }
   ];
 
