@@ -19,8 +19,8 @@ export default function Experience() {
     },
     {
       id: "02",
-      roleEn: "Video Editor",
-      roleId: "Editor Video",
+      roleEn: "Video Editor & Social Media Content Specialist",
+      roleId: "Editor Video & Konten Sosmed Specialist",
       company: "BubbleBubble.id",
       periodEn: "Nov 2024 - Mar 2025",
       periodId: "Nov 2024 - Mar 2025",
@@ -29,8 +29,8 @@ export default function Experience() {
     },
     {
       id: "03",
-      roleEn: "Video Editor",
-      roleId: "Editor Video",
+      roleEn: "Video Editor, Photographer & Videographer",
+      roleId: "Video Editor, Fotografer & Videografer",
       company: "Kastara Picture",
       periodEn: "Aug 2023 - Oct 2024",
       periodId: "Agu 2023 - Okt 2024",
