@@ -30,7 +30,7 @@ export default function Experience() {
     {
       id: "03",
       roleEn: "Video Editor, Photographer & Videographer",
-      roleId: "Video Editor, Fotografer & Videografer",
+      roleId: "Editor Video, Fotografer & Videografer",
       company: "Kastara Picture",
       periodEn: "Aug 2023 - Oct 2024",
       periodId: "Agu 2023 - Okt 2024",
