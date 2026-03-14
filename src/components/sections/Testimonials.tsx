@@ -10,27 +10,27 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      contentEn: "Radika consistently delivers exceptional work. His editing style completely transformed our social media presence and doubled our watch time.",
-      contentId: "Radika konsisten memberikan hasil luar biasa. Gaya editingnya benar-benar mengubah media sosial kami dan menggandakan watch time kami.",
-      name: "Client One",
-      roleEn: "Brand Owner",
-      roleId: "Pemilik Brand",
+      contentEn: "Radika's video editing for our campaigns has been outstanding. He perfectly understands our brand message and always crafts social media content that significantly boosts our engagement and viewer retention.",
+      contentId: "Hasil editan video Radika untuk kampanye kami sangat luar biasa. Dia sangat memahami pesan konten kami dan selalu berhasil meracik video media sosial yang sangat menarik interaksi dan retensi penonton.",
+      name: "Ina Tandiono",
+      roleEn: "Owner, BubbleBubble.id",
+      roleId: "Owner, BubbleBubble.id",
     },
     {
       id: 2,
-      contentEn: "Fast turnaround without compromising quality. The way he grades footage and paces the audio is top-notch. Highly recommended.",
-      contentId: "Pengerjaan cepat tanpa menyunat kualitas. Cara dia grading warna dan menata tempo audio benar-benar tingkat atas. Sangat direkomendasikan.",
-      name: "Client Two",
-      roleEn: "Marketing Director",
-      roleId: "Direktur Marketing",
+      contentEn: "I trust Radika entirely with processing our raw footage. His ability to edit and visually explain complex finance and geopolitical topics into engaging, accessible educational videos is truly exceptional.",
+      contentId: "Saya sangat mempercayakan pengolahan footage mentah kami kepada Radika. Kemampuannya mengedit dan meramu topik keuangan dan geopolitik yang rumit menjadi video edukasi yang menarik sungguh luar biasa.",
+      name: "Jay",
+      roleEn: "Owner, Horizon FX",
+      roleId: "Owner, Horizon FX",
     },
     {
       id: 3,
-      contentEn: "We hired Radika for our event recap and he captured the energy perfectly. The final video was engaging, dynamic, and exactly what we needed.",
-      contentId: "Kami merekrut Radika untuk rekap acara dan dia menangkap energinya dengan sempurna. Video akhirnya sangat engaging, dinamis, dan pas dengan yang kami butuhkan.",
-      name: "Client Three",
-      roleEn: "Event Organizer",
-      roleId: "Penyelenggara Acara",
+      contentEn: "From concept development and shooting to final post-production, Radika is a complete package. His expertise in videography, photography, and color grading elevated the visual quality of our projects immensely.",
+      contentId: "Mulai dari pengembangan konsep, proses syuting, hingga pascaproduksi akhir, Radika adalah paket lengkap. Keahliannya dalam videografi, fotografi, dan color grading sangat mengangkat kualitas visual proyek kami.",
+      name: "Idham Nugrahadi",
+      roleEn: "Founder, Kastara Picture",
+      roleId: "Founder, Kastara Picture",
     }
   ];
 
