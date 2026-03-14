@@ -14,8 +14,8 @@ export default function Experience() {
       company: "Freelance",
       periodEn: "Sep 2024 - Present",
       periodId: "Sep 2024 - Sekarang",
-      descEn: "Independent post-production for various clients, focusing on commercial punch and retention.",
-      descId: "Pascaproduksi independen untuk berbagai klien, berfokus pada kekuatan komersial dan retensi penonton."
+      descEn: "Worked on various video projects for both online and offline clients, including business promotional videos, social media content, company profiles, and event documentation. Responsible for the entire editing process—from cutting footage, color grading, adding visual and audio effects, to delivering the final output tailored to each client's needs. Able to adapt to different editing styles and maintain clear communication to fully understand the client's vision.",
+      descId: "Mengerjakan berbagai proyek video untuk klien online dan offline, termasuk video promosi bisnis, konten media sosial, profil perusahaan, dan dokumentasi acara. Bertanggung jawab atas seluruh proses pengeditan—mulai dari pemotongan footage, color grading, penambahan efek visual dan audio, hingga memberikan hasil akhir yang disesuaikan dengan kebutuhan setiap klien. Mampu beradaptasi dengan berbagai gaya pengeditan dan mempertahankan komunikasi yang lancar untuk memahami visi klien sepenuhnya."
     },
     {
       id: "02",
@@ -24,8 +24,8 @@ export default function Experience() {
       company: "BubbleBubble.id",
       periodEn: "Nov 2024 - Mar 2025",
       periodId: "Nov 2024 - Mar 2025",
-      descEn: "Spearheaded short-form content creation, boosting engagement metrics across Instagram and TikTok.",
-      descId: "Mempelopori pembuatan konten video pendek, mendongkrak matriks interaksi di seluruh platform."
+      descEn: "Created engaging video content for digital campaigns, including social media, websites, and email marketing. Edited and optimized videos to align with brand messaging and enhance audience engagement. Collaborated with the digital marketing team to develop effective visual storytelling strategies, resulting in improved viewer retention and campaign performance.",
+      descId: "Membuat konten video yang menarik untuk kampanye digital, termasuk media sosial, situs web, dan email marketing. Mengedit dan mengoptimalkan video agar sejalan dengan pesan merek dan meningkatkatkan interaksi audiens. Berkolaborasi dengan tim pemasaran digital untuk mengembangkan strategi visual storytelling yang efektif, menghasilkan peningkatan retensi penonton dan kinerja kampanye."
     },
     {
       id: "03",
@@ -34,19 +34,9 @@ export default function Experience() {
       company: "Kastara Picture",
       periodEn: "Jul 2024 - Okt 2024",
       periodId: "Jul 2024 - Okt 2024",
-      descEn: "Assisted in offline editing, color grading drafts, and managing media assets for event videography.",
-      descId: "Terlibat dalam editing offline, draf color grading, dan penanganan aset media untuk acara."
-    },
-    {
-      id: "04",
-      roleEn: "-",
-      roleId: "-",
-      company: "-",
-      periodEn: "- | -",
-      periodId: "- | -",
-      descEn: "Position open for the next big project.",
-      descId: "Posisi terbuka untuk proyek besar selanjutnya."
-    },
+      descEn: "Responsible for end-to-end video production, including concept development, shooting, and post-production. Tasks included creating storyboards, setting up lighting and camera equipment, editing footage using professional software (Capcut and Adobe Premiere Pro), adding motion graphics, and performing color grading. Played a key role in maintaining visual quality and ensuring the final output aligned with the client's branding and objectives.",
+      descId: "Bertanggung jawab atas produksi video end-to-end, termasuk pengembangan konsep, syuting, dan pascaproduksi. Tugas mencakup pembuatan storyboard, pengaturan pencahayaan dan peralatan kamera, pengeditan footage menggunakan perangkat lunak profesional (Capcut dan Adobe Premiere Pro), penambahan motion graphics, dan color grading. Memainkan peran kunci dalam menjaga kualitas visual dan memastikan hasil akhir selaras dengan branding dan tujuan klien."
+    }
   ];
 
   return (
@@ -80,7 +70,7 @@ export default function Experience() {
                   <h4 className="text-xl md:text-2xl font-light text-text-muted mb-6 font-heading tracking-widest uppercase">
                     {lang === 'id' ? exp.roleId : exp.roleEn}
                   </h4>
-                  <p className="text-sm md:text-base text-text-dim leading-relaxed max-w-xl group-hover:text-text-muted transition-colors">
+                  <p className="text-sm md:text-base leading-relaxed max-w-xl transition-colors" style={{ color: 'var(--color-text-muted)' }}>
                     {lang === 'id' ? exp.descId : exp.descEn}
                   </p>
                 </div>
